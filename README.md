@@ -4,8 +4,8 @@
 A two-player chess game with a full graphical board, playable either against a friend or against a built-in AI opponent. Click a piece, click where you want it to go, and the game enforces every rule of chess along the way — including the tricky ones like castling and en passant.
 
 ## Technologies Involved
-- **Python** — the language the entire project is written in
-- **Pygame** — handles the graphics: drawing the board, pieces, animations, and reading mouse/keyboard input
+- **Python**. The language the entire project is written in
+- **Pygame**. Handles the graphics: drawing the board, pieces, animations, and reading mouse/keyboard input
 
 ## Features
 - Full legal move validation (no illegal moves possible)
