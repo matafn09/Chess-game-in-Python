@@ -49,7 +49,8 @@ The project is split into three parts that each handle one job:
    ```
 
 ## Demo Video
-![Chess AI Game Demo](UntitledProject-ezgif.com-crop_2.gif)
+![Chess Engine Demo](https://github.com/user-attachments/assets/UntitledProject-ezgif.com-crop_2.gif)
+
 
 ---
 ⭐️ A project by [Fernand Mata](https://github.com/matafn09)
