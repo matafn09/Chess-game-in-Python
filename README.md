@@ -49,7 +49,7 @@ The project is split into three parts that each handle one job:
    ```
 
 ## Demo Video
-_(Video coming soon)_
+![Chess AI Game Demo](UntitledProject-ezgif.com-crop_2.gif)
 
 ---
 ⭐️ A project by [Fernand Mata](https://github.com/matafn09)
