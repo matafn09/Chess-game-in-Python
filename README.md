@@ -49,7 +49,7 @@ The project is split into three parts that each handle one job:
    ```
 
 ## Demo Video
-![Chess Engine Demo](https://github.com/user-attachments/assets/UntitledProject-ezgif.com-crop_2.gif)
+<img src="UntitledProject-ezgif.com-crop_3.gif" width="600" alt="Chess AI Demo">
 
 
 ---
