@@ -49,7 +49,7 @@ The project is split into three parts that each handle one job:
    ```
 
 ## Demo Video
-<img src="UntitledProject-ezgif.com-crop_3.gif" width="600" alt="Chess AI Demo">
+![Chess AI Demo](UntitledProject-ezgif.com-crop_3.gif)
 
 
 ---
