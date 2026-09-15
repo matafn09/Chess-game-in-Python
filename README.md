@@ -1,6 +1,6 @@
 # ♟️ Python Chess Game
 
-## What It Is
+## What is it?
 A two-player chess game with a full graphical board, playable either against a friend or against a built-in AI opponent. Click a piece, click where you want it to go, and the game enforces every rule of chess along the way — including the tricky ones like castling and en passant.
 
 ## Technologies Involved
