@@ -50,7 +50,7 @@ The project is split into three parts that each handle one job:
 
 ## Demo Video
 
-<img src="https://raw.githubusercontent.com/matafn09/Chess-game-in-Python/main/UntitledProject-ezgif.com-crop.gif" width="600" alt="Chess AI Demo">
+<img src="https://raw.githubusercontent.com/matafn09/Chess-game-in-Python/main/Chess-game-vid.gif" width="600" alt="Chess AI Demo">
 
 
 ---
